@@ -5,19 +5,19 @@
 ### 주요 기능
 - 책 시각화(List): 입력한 책 정보의 페이지 수를 기반으로 블록 쌓기
 
-  <img src="images/function1.png" alt="설명" width="500"/>
+  <img src="images/function1.png" alt="설명" width="700"/>
 
 - 팝업 정보: 책 블록 클릭 시 상세 정보 확인 기능
 
-  <img src="images/function2.png" alt="설명" width="500"/>
+  <img src="images/function2.png" alt="설명" width="700"/>
   
 - 명언(List): 메인 상단에 명언이 20초마다 전환되며 출력
 
-  <img src="images/function3.png" alt="설명" width="500"/>
+  <img src="images/function3.png" alt="설명" width="700"/>
 
 - 목표: 목표에 따른 진행 막대와 달성 여부 알림
 
-  <img src="images/function4.png" alt="설명" width="500"/>
+  <img src="images/function4.png" alt="설명" width="700"/>
 
 
 ### 조원별 역할 분담
