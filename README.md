@@ -27,17 +27,17 @@
   <img src="images/goal_alarm2.png" alt="설명" width="300"/> <img src="images/goal_note.png" alt="설명" width="300"/>
 
 ---
+### 개발 환경
+- Flutter: 앱 개발 프레임워크
+- VSCode: 코드 작성
+- Android Studio: 에뮬레이터
+
+---
 ### 조원별 역할 분담
 - **신정환**: 책 등록 및 입력 처리 기능 구현
 - **윤소운**: 데이터 처리 및 삭제 로직
 - **임석민**: 목표 및 진행률 표시 로직
 - **서현아**: 명언 출력 및 디자인
-
----
-### 개발 환경
-- Flutter: 앱 개발 프레임워크
-- VSCode: 코드 작성
-- Android Studio: 에뮬레이터
 
 ---
 ### 시연 영상: [youtube 링크](https://youtube.com/shorts/WDhXVpSydcY?feature=share)
