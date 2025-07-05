@@ -1,5 +1,6 @@
 ## 2025-1 자료구조 D반 5조 - 나만의 책탑
 
+---
 ### 주제: 자료구조 기반 독서 기록 시각화 앱
 *(Data Structure-based Reading Tracker Visualization App)*
 
@@ -9,7 +10,7 @@
 
 > 학습 범위 확장을 위해 명언 출력 기능을 새롭게 개발하여 추가했습니다.
 
-
+---
 ### 주요 기능
 - 책 시각화(List): 입력한 책 정보의 페이지 수를 기반으로 블록 쌓기
 
@@ -27,29 +28,29 @@
 
   <img src="images/goal_alarm2.png" alt="설명" width="300"/> <img src="images/goal_note.png" alt="설명" width="300"/>
 
-
+---
 ### 조원별 역할 분담
 - **신정환**: 책 등록 및 입력 처리 기능 구현
 - **윤소운**: 데이터 처리 및 삭제 로직
 - **임석민**: 목표 및 진행률 표시 로직
 - **서현아**: 명언 출력 및 디자인
 
-
+---
 ### 개발 환경
 - Flutter: 앱 개발 프레임워크
 - VSCode: 코드 작성
 - Android Studio: 에뮬레이터
 
-
+---
 ### 시연 영상: [youtube 링크](https://youtube.com/shorts/WDhXVpSydcY?feature=share)
 
-<p align="center">
+<p>
   <a href="https://www.youtube.com/watch?v=WDhXVpSydcY">
     <img src="https://img.youtube.com/vi/WDhXVpSydcY/0.jpg" alt="시연 영상 썸네일" width="400">
   </a>
 </p>
 
-
+---
 ### 문제점 및 해결 방안
 1. **개발 환경 세팅**
    - 문제점: 팀원 모두 처음 사용하는 개발 툴로, 특히 SDK 관련 오류 발생
