@@ -44,9 +44,9 @@
 ### 시연 영상: [youtube 링크](https://youtube.com/shorts/WDhXVpSydcY?feature=share)
 
 <p align="center">
-    <a href="https://youtube.com/shorts/WDhXVpSydcY?feature=share">
-        <img src="https://img.youtube.com/shorts/WDhXVpSydcY/0.jpg" alt="시연 영상 썸네일">
-    </a>
+  <a href="https://www.youtube.com/watch?v=WDhXVpSydcY">
+    <img src="https://img.youtube.com/vi/WDhXVpSydcY/0.jpg" alt="시연 영상 썸네일" width="400">
+  </a>
 </p>
 
 
